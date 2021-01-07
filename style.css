@@ -1,0 +1,78 @@
+.body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+}
+.name-color{
+    color: rgba(39, 41, 26, 0.651);
+}
+.name-color2{
+    color: rgba(212, 124, 8, 0.89);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.my-self{
+    width: 40%;
+    float: right;
+}
+.disign{
+    text-decoration: none;
+    margin: 3px;
+    color: rgb(14, 107, 98);
+    margin-left:3px;
+    padding: 2px;
+    text-align: left ;
+
+}
+
+image{
+    width: 25%;
+    float: left;
+
+}
+.work-color{
+    color:rgb(103, 103, 155);
+
+}
+.project{
+    color: tomato;
+}
+.middle{
+    text-align: center;
+}
+.new-line{
+    text-align: center;
+}
+.experiance-area{
+    width: 30%;
+}
+.specil-color{
+    color: rgba(156, 46, 26, 0.836);
+}
+.special-color2{
+    color: rgba(66, 18, 121, 0.678);
+}
+.new1{
+    color:rgb(28, 59, 95);
+
+    }
+.new2{
+    color:rgb(26, 15, 78);
+}
+.new3{
+    width: 70%;
+    }
+}
